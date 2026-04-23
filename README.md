@@ -48,7 +48,7 @@ The application connects to a local MySQL database using:
 * **Driver Class:** `com.mysql.cj.jdbc.Driver`
 * **URL:** `jdbc:mysql://localhost:3306/proiect_spring`
 * **Username:** `root`
-* **Password:** *(empty by default)*
+* **Password:** 'root'
 
 Spring uses `DriverManagerDataSource` to manage the connection.
 
