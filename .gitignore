@@ -1,0 +1,16 @@
+# Compiled Java class files
+/bin/
+*.class
+
+# Eclipse specific files (Optional, read below)
+.settings/
+.metadata/
+
+# Absolute path configurations
+# Deoarece .classpath-ul tău conține căi de tipul C:/Users/nicol/...
+# este mai bine să nu îl urci dacă vrei ca proiectul să fie portabil.
+.classpath
+
+# Temporary files
+*.log
+.DS_Store
